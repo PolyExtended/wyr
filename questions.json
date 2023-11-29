@@ -216,6 +216,14 @@
         "options": ["Everyone Knows Your Thoughts", "No One Knows Your Thoughts"]
     },
     {
+    "question": "Would you rather lick the bottom of a worn shoe or eat from a stranger's feet?",
+    "options": ["Lick the bottom of a worn shoe", "Eat from a stranger's feet"]
+    }
+    {
+    "question": "Would you rather find the true love of your life or be friends with all of your favorite celebrities?",
+    "options": ["Find the true love of your life", "Be friends with all of your favorite celebrities"]
+    }
+    {
         "question": "Would you rather have the power of super strength or the ability to breathe underwater?",
         "options": ["Super Strength", "Breathe Underwater"]
     }
